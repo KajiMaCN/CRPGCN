@@ -1,0 +1,11 @@
+numpy~=1.19.4
+pandas~=1.1.5
+matplotlib~=3.3.3
+pyrwr~=1.0.0
+tensorflow~=2.4.0
+tensorflow-gpu~=2.4.0
+scipy~=1.5.4
+networkx~=2.5
+tqdm~=4.55.0
+sklearn~=0.0
+scikit-learn~=0.23.2

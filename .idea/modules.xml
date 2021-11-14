@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CRPGCN-master.iml" filepath="$PROJECT_DIR$/.idea/CRPGCN-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CRPGCN.iml" filepath="$PROJECT_DIR$/.idea/CRPGCN.iml" />
     </modules>
   </component>
 </project>

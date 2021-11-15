@@ -1,6 +1,6 @@
-#CRPGCN:Predicting circRNA-DiseaseAssociations Using Graph Convolutional Network Based on Heterogeneous Network
+# CRPGCN:Predicting circRNA-DiseaseAssociations Using Graph Convolutional Network Based on Heterogeneous Network
 
-###Abstract
+### Abstract
 **Background:**
 The existing studies show that circRNAs can be used as biomarkers} of diseases and play a prominent role in the treatment and diagnosis of diseases. However, the relationships between the vast majority of circRNAs and diseases are still unclear, and more experiments are needed to study the mechanism of circRNAs. Nowadays, some scholars use the \textcolor{red}{attributes} between circRNAs and diseases to study and predict their associations. Nonetheless, most of the existing experimental methods use less information about the attributes of circRNAs, which has a certain impact on the accuracy of the final prediction results. On the other hand, some scholars also apply experimental methods to predict the associations between circRNAs and diseases. But such methods are usually expensive and time-consuming. \textcolor{red}{Based on these shortcomings, follow-up studies are needed to propose more effective computation-based methods to predict the associations between circRNAs and diseases.
 

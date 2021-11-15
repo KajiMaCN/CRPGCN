@@ -13,7 +13,7 @@ After 2-fold cross-validation (CV), 5-fold CV and 10-fold CV, the area under the
 ### The flowchart of CRPGCN
 ![avatar](figure/Figure 1.png)
 
-###C ontributions
+### Contributions
 **The main contributions of this work are summarized as follows:**
 
 - The CRPGCN method incorporates the RWR similarity calculation method and the PCA feature extraction method, allowing the calculated nodes to better combine the similarity between neighbouring nodes while greatly reducing the impact on the prediction results.

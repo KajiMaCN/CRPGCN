@@ -11,7 +11,7 @@ In this study, a novel algorithm (method) is proposed, which is based on the Gra
 After 2-fold cross-validation (CV), 5-fold CV and 10-fold CV, the area under the ROC curve (AUC) of the CRPGCN are 0.9490, 0.9720 and 0.9722, respectively. The CRPGCN method has a valuable effect in predict the associations between circRNAs and diseases.
 
 ### The flowchart of CRPGCN
-	![avatar](figure/Figure 1.png)
+![avatar](https://github.com/KajiMaCN/CRPGCN/blob/main/figure/Figure%201.png)
 
 ### Contributions
 **The main contributions of this work are summarized as follows:**

@@ -10,10 +10,10 @@ In this study, a novel algorithm (method) is proposed, which is based on the Gra
 **Conclusions:**
 After 2-fold cross-validation (CV), 5-fold CV and 10-fold CV, the area under the ROC curve (AUC) of the CRPGCN are 0.9490, 0.9720 and 0.9722, respectively. The CRPGCN method has a valuable effect in predict the associations between circRNAs and diseases.
 
-###The flowchart of CRPGCN
+### The flowchart of CRPGCN
 ![avatar](figure/Figure 1.png)
 
-###Contributions
+###C ontributions
 **The main contributions of this work are summarized as follows:**
 
 - The CRPGCN method incorporates the RWR similarity calculation method and the PCA feature extraction method, allowing the calculated nodes to better combine the similarity between neighbouring nodes while greatly reducing the impact on the prediction results.
@@ -24,7 +24,7 @@ After 2-fold cross-validation (CV), 5-fold CV and 10-fold CV, the area under the
 
 - By comparing various evaluation metrics, the CRPGCN algorithm outperforms other advanced algorithms in terms of overall performance.
 
-###Requirements
+### Requirements
 ```
 numpy~=1.19.4
 pandas~=1.1.5
@@ -38,24 +38,24 @@ tqdm~=4.55.0
 sklearn~=0.0
 scikit-learn~=0.23.2
 ```
-###cuda version
+### cuda version
 ```
 nvcc: NVIDIA (R) Cuda compiler driver
 Copyright (c) 2005-2020 NVIDIA Corporation
 Cuda compilation tools, release 11.1, V11.1.74
 Build cuda_11.1
 ```
-###Datasets:
+### Datasets:
 1. AM: Adjacency matrix
 2. Disease_sim : Disease similarity matrix DS
 3. RNA_sim: circRNA similarity matrix CS
 
-###Running steps
+### Running steps
 1. Install the runtime environment in the Terminal with the command: pip install -r requirements.txt
 2. Put the adjacency matrix (.csv), disease similarity matrix (.csv) and RNA similarity matrix (.csv) into the dataset folder
 3. run main.py
 
-###Additional Environment Download Address
+### Additional Environment Download Address
 If you are unable to debug the CRPGCN runtime environment, you can download the environment we have configured in the following way:
 
 - Baidu Netdisk
@@ -64,7 +64,7 @@ If you are unable to debug the CRPGCN runtime environment, you can download the 
     
         Link：https://pan.baidu.com/s/1tc62HTdaRz3CgKBzZuM0kw 
         Verification Code：pa1u
-###Citation
+### Citation
 If you found this paper or code helpful, please cite our paper:
 
     @article{CRPGCN2021,
@@ -76,5 +76,5 @@ If you found this paper or code helpful, please cite our paper:
           doi     = {https://doi.org/10.1186/s12859-021-04467-z}
         }
 
-###Others
+### Others
 **If you have any questions, please submit your issues.**

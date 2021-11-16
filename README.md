@@ -75,7 +75,7 @@ If you found this paper or code helpful, please cite our paper:
 	     keywords = {CircRNA-disease,Deep learning,Graph convolutional network,Heterogenous network,Principal component analysis},
 	     pages = {1--23},
 	     publisher = {BioMed Central},
-	     title = {{CRPGCN : predicting circRNA ‑ disease associations using graph convolutional network based on heterogeneous network}},
+	     title = {{CRPGCN : predicting circRNA‑disease associations using graph convolutional network based on heterogeneous network}},
 	     url = {https://doi.org/10.1186/s12859-021-04467-z},
 	     year = {2021}
 	     }

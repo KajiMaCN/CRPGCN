@@ -67,14 +67,18 @@ If you are unable to debug the CRPGCN runtime environment, you can download the 
 ### Citation
 If you found this paper or code helpful, please cite our paper:
 
-    @article{CRPGCN2021,
-          title   = {CRPGCN:Predicting circRNA-DiseaseAssociations Using Graph Convolutional Network Based on Heterogeneous Network},
-          author  = {Zhihao Ma, Zhufang Kuang and Lei Deng}, 
-          journal = {BMC Bioinformatics},
-          month   = {Nov},
-          year    = {2021}
-          doi     = {https://doi.org/10.1186/s12859-021-04467-z}
-        }
+    @article{Ma2021,
+	     author = {Ma, Zhihao and Kuang, Zhufang and Deng, Lei},
+	     doi = {10.1186/s12859-021-04467-z},
+	     issn = {1471-2105},
+	     journal = {BMC Bioinformatics},
+	     keywords = {CircRNA-disease,Deep learning,Graph convolutional network,Heterogenous network,Principal component analysis},
+	     pages = {1--23},
+	     publisher = {BioMed Central},
+	     title = {{CRPGCN : predicting circRNA ‑ disease associations using graph convolutional network based on heterogeneous network}},
+	     url = {https://doi.org/10.1186/s12859-021-04467-z},
+	     year = {2021}
+	     }
 
 ### Others
 **If you have any questions, please submit your issues.**
